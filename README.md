@@ -1,8 +1,7 @@
 # semiAnnuluBlockMeshM4
 This is a case to create a semi-annulus parametric geometry with m4 written based on foam-extend-4.1.
 
-
-## Installation
+## Getting Started
 It is working on foam-extend-4.1
 ```bash
 git clone https://github.com/EhsanGLB/semiAnnuluBlockMeshM4.git

@@ -1,5 +1,5 @@
 # semiAnnuluBlockMeshM4
-This is a case to create a semi-annulus parametric geometry with m4 written based on foam-extend-4.1.
+This is a case to create a semi-annulus parametric geometry using m4 written based on foam-extend-4.1.
 
 ## Getting Started
 It is working on foam-extend-4.1
